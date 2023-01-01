@@ -1,4 +1,8 @@
-# Contents
+# Brendan Hayward
+
+[Where to find me online](https://linktr.ee/bmjhayward)
+
+## Contents
 
 * [This is AlphaFold 2](alphafold2Intro.md)
 * [Databases](databases.md)
