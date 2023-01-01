@@ -1,0 +1,29 @@
+If you're like me and you have a desk job, then you almost certainly use a lot of information systems.
+There's a metric butt-tonne of them and it's confusing to keep track of them all.
+They're mostly accessed using chrome or some other web browser, and they have a dirty little secret.
+
+Under the surface, the software is almost exactly the same.
+
+Doesn't matter if it's written with different programming languages, different architectures, tech stacks, whatever. They're fundamentally doing the same thing.
+
+Here's the basics of these systems:
+
+1. You create, read, update and delete the things you put into this system (CRUD for short)
+  1a. Sometimes these records you put in have workflows or processes or transformations or stages that they go through i.e. a loan application for a house
+2. You set rules about who can get in and do what - authentication/authorisation
+3. bulk import/export of data/records
+4. backup, disaster recovery (usually comes by default with cloud providers)
+
+If the publishers/vendors are smart, they'll put a few more things in:
+
+5. report and monitor with common requests as default, with full report coverage available, i.e. users can create reports and alerts on anything
+6. self serve as much as possible
+7. API coverage of all end user functionality, i.e. if I can see it on the screen, it should be in an API so programmers can automate stuff with it
+
+They all have 3 or 4 letter acronyms: CRM, CSM, RMS, CMS, ITSM, AMS etc etc. The MS usually stands for "management system".
+Because they're all the same, I kind of expect these things to just *be there from the start*.
+I've gotten to the point where I believe all these features should just be included upfront, in the price tag.
+
+If 4, 6 and 7 were in every system, the entire world would run at least 9999% more efficiently, I bet.
+
+Maybe a digital economist could do an actual study and find out.

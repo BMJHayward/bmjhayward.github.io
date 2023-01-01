@@ -1,5 +1,15 @@
-#Contents
+# Contents
 
+* [This is AlphaFold 2](alphafold2Intro.md)
+* [Databases] (databases.md)
+* [The Best Data Science Curriculum in the World] (data_science_curriculum.md)
+* [Ingredients of the Incoming Digital Reality] (digitalrealityincoming.md)
+* [Docker Quick Start] (dockerquickstart.md)
+* [How to Install GDAL and ECW] (gdalECW.md)
+* [Git Quick Start] (gitQuickStart.md)
+* [How To Write Okay Code] (howToWriteOkayCode.md)
+* [Information Systems and You] (infoCrudSystems.txt)
+* [TypeScript Notes] (typescriptnotes.md)
 * [To-gauge-the-size-of-the-matter](2016-03-25_To-gauge-the-size-of-the-matter--ac7a109f799b.md)
 * [I-have-gauged-the-size-of-the-matter](2016-03-26_I-have-gauged-the-size-of-the-matter-a8be2bca9f62.md)
 * [A-more-rigorous-gauging-of-the-size-of-the-matter](2016-05-09_A-more-rigorous-gauging-of-the-size-of-the-matter-5fc5111d42f7.md)
