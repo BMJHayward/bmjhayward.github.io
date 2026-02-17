@@ -2,16 +2,19 @@
 
 Facetting is the simple technique of taking your plots, shrinking them a bit and putting them in a grid.
 
+A 3x4 facet grid from plotly:
 ![A 3x4 facet grid from plotly](img/facetexample.png)
 Credit: Plotly, https://plotly.com/python/facet-plots/
 
 So now you can look at them all in one glance without turning, scrolling or re-loading a page.
 Usually it's for plots of the same type but with a variable changed for at least one axis, but it doesn't have to be.
 
+A 4x4 using ggplot, where each border represents a different variable:
 ![A 4x4 using ggplot, where each border represents a different variable](img/facetexample2.png)
 Credit: Stack Overflow, https://stackoverflow.com/questions/37337068/ggplot-combine-line-and-area-in-same-panel-facet-grid
 
-![Perhaps not a facet, as it's only 2 plots](img/facetexample3.png) - but your facet grid could contain multiple chart types if you want 
+Perhaps not a facet, as it's only 2 plots - but your facet grid could contain multiple chart types if you want:
+![Perhaps not a facet, as it's only 2 plots - but your facet grid could contain multiple chart types if you want](img/facetexample3.png)
 Credit: andrewirwin.github.io, https://andrewirwin.github.io/data-visualization/facets.html
 
 - simple and effective technique
@@ -42,7 +45,7 @@ Well then, see below...
 Easy place to start is python with the seaborn library and the iris dataset.
 This is an example from a larger tutorial, link below.
 
-```
+```python
 # Import seaborn
 import seaborn as sns
 
@@ -60,6 +63,7 @@ g.add_legend()
 g.savefig('facetexample4.png')
 ```
 
+4x4 grid from the code above:
 ![4x4 grid from the code above](img/facetexample.png)
 Credit: Seaborn from PyData, https://seaborn.pydata.org/tutorial/axis_grids.html
 
