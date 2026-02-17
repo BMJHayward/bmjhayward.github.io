@@ -1,6 +1,5 @@
 # Brendan Hayward
 
-[Where to find me online](https://linktr.ee/bmjhayward)
 
 ## Contents
 
@@ -23,3 +22,5 @@
 * [Programming-Parallels-3--Just-let-me-get-on-with-it](2016-09-17_Programming-Parallels-3--Just-let-me-get-on-with-it-22e9144982b9.md)
 * [Weird-matrix-with-a-row-of-primes-in-it](2016-10-07_Weird-matrix-with-a-row-of-primes-in-it-59a46496ba3e.md)
 * [Norm-of-Weird-Matrices](2016-10-23_Norm-of-Weird-Matrices--323991f59f9d.md)
+
+[Where to find me online](https://linktr.ee/bmjhayward)
