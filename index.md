@@ -4,6 +4,7 @@
 
 ## Contents
 
+* [How to Make a Facet Plot](howToMakeFacetPlot.md)
 * [This is AlphaFold 2](alphafold2Intro.md)
 * [Databases](databases.md)
 * [The Best Data Science Curriculum in the World](data_science_curriculum.md)
